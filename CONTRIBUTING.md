@@ -9,12 +9,12 @@ In order to edit the files on GitHub, you will need to be a member of the CSTA G
 
 Once you're part of the organization, you will have edit rights for all the files in each repository. GitHub makes it easy to edit files directly in browser. Open the file you want to edit in your browser and look for the "Edit this file" button.
 
-![Edit GitHub in browser](./images/edit%20file%20on%20GitHub.png)
+![Edit GitHub in browser](https://github.com/Georgia-CSTA/AP-Computer-Science-A/blob/54f4620706b3fac759a49261183d3bdf5cd17d4a/images/edit%20file%20on%20GitHub.png)
 
 All the files in the repository are in a text format known as markdown. Find the section in the file where you want to place a link to your resource and create a new line with a markdown formatted link: `[My Resource Name](http://www.myresourceurl.com)`
 
 After you have added your new links, you will need to *commit* your changes. Scroll down to the bottom of the edit page, and add a quick description of your edit before clicking the *Commit Changes* button.
 
-![Commit changes](./images/commit%20changes.png)
+![Commit changes](https://github.com/Georgia-CSTA/AP-Computer-Science-A/blob/54f4620706b3fac759a49261183d3bdf5cd17d4a/images/commit%20changes.png)
 
 If you want to learn more about markdown myntax, then you can refrence this [Markdown Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/#links).
