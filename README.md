@@ -21,4 +21,4 @@ Please check out the [Contributor's Guide](./CONTRIBUTING.md) for adding resourc
 * [Google Cloud Training](https://cloud.google.com/training)
 * [Microsoft Azure Training](https://docs.microsoft.com/en-us/learn/azure/)
 * [IBM Cloud Training](https://www.ibm.com/training/cloud)
-** [IBM Academic Initiative](https://www.ibm.com/academic/home)
+  * [IBM Academic Initiative](https://www.ibm.com/academic/home)
